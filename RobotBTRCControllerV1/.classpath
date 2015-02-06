@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_71"/>
+	<classpathentry kind="lib" path="C:/Users/Andrew/Desktop/jSSC-2.6.0-Release/jSSC-2.6.0-Release/jssc.jar" sourcepath="C:/Users/Andrew/Desktop/jSSC-2.6.0-Release/jSSC-2.6.0-Release/src/jssc-2.6.0-src.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/Andrew/Desktop/jSSC-2.6.0-Release/jSSC-2.6.0-Release/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
